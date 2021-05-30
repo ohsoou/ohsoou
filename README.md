@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=SUBIN%20OH&type=wave&height=300&color=b590ce&animation=fadeIn&fontColor=FFF&fontSize=60&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?text=SUBIN%20OH&type=wave&height=300&color=dda0dd&animation=fadeIn&fontColor=FFF&fontSize=60&fontAlignY=40)
 
 <h3 align="center">:pushpin:Tech Stack</h3>
 <br/>
