@@ -20,5 +20,12 @@
 <a href="https://ohsoou.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://ohsoou.tistory.com/"/></a>
 </p>
 
+<br>
+<hr>
+<div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsoou)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsoou&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
