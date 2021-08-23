@@ -19,3 +19,6 @@
 <p align="center">
 <a href="https://ohsoou.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://ohsoou.tistory.com/"/></a>
 </p>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsoou)](https://github.com/anuraghazra/github-readme-stats)
